@@ -1,0 +1,6 @@
+total=0
+available=0
+sold=0
+pawn=0
+returned=0
+total_value=0

@@ -1,0 +1,4 @@
+login|password|role
+admin|admin123|administrator
+cashier1|1111|cashier
+boss|1|director
